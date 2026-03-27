@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Wen;Senior+Backend+Engineer;96+Technical+Articles+Writer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Wen;Senior+Backend+Engineer;Open+to+Opportunities!" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">AI Engineer | Data Scientist | Data Engineer | Backend Engineer</h3>
@@ -80,12 +80,6 @@ me = BackendEngineer()
 - 📝 Passionate about **technical writing** with **79K+ readers**
 - 🏭 Built **AI systems for real factory production lines**
 - 🌱 Always learning new technologies and sharing knowledge
-
----
-
-<p align="center">
-  <i>💬 Open to collaboration opportunities!</i>
-</p>
 
 ---
 
