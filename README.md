@@ -27,7 +27,7 @@ class BackendEngineer:
         return {
             "languages": ["Python", "Go", "SQL"],
             "backend": ["FastAPI", "Gin", "OpenAPI"],
-            "ai_ml": ["LangChain", "LangGraph", "LangFuse", "Azure OpenAI", "PyTorch", "TensorFlow", "Keras"],
+            "ai_ml": ["LangChain", "LangGraph", "LangFuse", "PyTorch", "TensorFlow", "Keras"],
             "cloud": ["AWS", "Kubernetes", "Docker", "Terraform", "Helm"],
             "data": ["PySpark", "PostgreSQL", "InfluxDB"]
         }
@@ -61,7 +61,6 @@ me = BackendEngineer()
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=graphql&logoColor=white)
 ![LangFuse](https://img.shields.io/badge/LangFuse-000000?style=for-the-badge&logo=lightning&logoColor=white)
-![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
