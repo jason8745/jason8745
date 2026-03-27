@@ -6,12 +6,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/wen-734465166/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/jason8745"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://wenwender.wordpress.com/"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog"/></a>
-  <a href="mailto:yujunwen0517@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
-
-<p align="center">
+  <br/>
   <img src="https://komarev.com/ghpvc/?username=jason8745&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
@@ -31,7 +27,7 @@ class BackendEngineer:
         return {
             "languages": ["Python", "Go", "SQL"],
             "backend": ["FastAPI", "Gin", "OpenAPI"],
-            "ai_ml": ["LangChain", "Azure OpenAI", "LangFuse", "TensorFlow"],
+            "ai_ml": ["LangChain", "LangGraph", "LangFuse", "Azure OpenAI", "PyTorch", "TensorFlow", "Keras"],
             "cloud": ["AWS", "Kubernetes", "Docker", "Terraform", "Helm"],
             "data": ["PySpark", "PostgreSQL"]
         }
@@ -63,8 +59,16 @@ me = BackendEngineer()
 
 ### AI & ML
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=graphql&logoColor=white)
+![LangFuse](https://img.shields.io/badge/LangFuse-000000?style=for-the-badge&logo=lightning&logoColor=white)
 ![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+
+### Data Engineering
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -75,7 +79,6 @@ me = BackendEngineer()
 
 ### DevOps & Tools
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 ---
