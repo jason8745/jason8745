@@ -29,7 +29,7 @@ class BackendEngineer:
             "backend": ["FastAPI", "Gin", "OpenAPI"],
             "ai_ml": ["LangChain", "LangGraph", "LangFuse", "Azure OpenAI", "PyTorch", "TensorFlow", "Keras"],
             "cloud": ["AWS", "Kubernetes", "Docker", "Terraform", "Helm"],
-            "data": ["PySpark", "PostgreSQL"]
+            "data": ["PySpark", "PostgreSQL", "InfluxDB"]
         }
 
     def get_highlights(self):
@@ -69,6 +69,7 @@ me = BackendEngineer()
 ### Data Engineering
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white)
 
 ### Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
